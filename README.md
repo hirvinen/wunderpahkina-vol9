@@ -1,3 +1,11 @@
+# My solution to wunderpahkina-vol9
+
+Invocation: `node wp9.js [<filename, default='patterns.txt'>]`
+
+Or to show the evolution of patterns as well: `VERBOSE=1 node wp9.js [<filename, default='patterns.txt'>]`
+
+Original README begins after this line.
+
 # Back to school
 
 It’s that time of the year again... Back to school! This time you won’t have to worry about being bored in class, we’ve got you covered! Back in the days 
@@ -92,5 +100,3 @@ Definitions:
 Submit your answer to pahkina@wunderdog.fi at latest 2018-09-30.
 
 The winner is chosen by our Wunderdog jury and he/she will be awarded with Majestouch-2 TLK MINILA Keyboard.
-
-
